@@ -1,9 +1,19 @@
 # Project-501
 Vaayu India Wind Power Project in Jaisalmer, Rajasthan 
 
+The project activity consists of 63 wind energy converters of 800 kW E-53 with a total
+capacity of 50.4 MW. The generated electricity is supplied to the Rajasthan state
+electricity grid which is part of the Indian national electricity grid. The estimated net
+electricity generation is 94.482 GWh and the annual emission reductions are estimated
+to be 87,159 tCO2 per year. 
+
 ___________
 PRIOR HISTORY
 ____________
+
+The  WECs  under  the  project  activity  were  commissioned  between  14/05/2011  
+and 14/07/2011. The expected operational lifetime of the project is for 20 years. The 
+project activity was registered as CDM project on 20/09/2011.  
 
 
 
