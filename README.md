@@ -1,11 +1,32 @@
 # Project-501
 Vaayu India Wind Power Project in Jaisalmer, Rajasthan 
 
+The scale of the project activity Large-Scale Wind Project
+
+Project participants Vaayu India Power Corporation Pvt Ltd
+
+Host Party India
+
+Applied methodologies and standardized
+baselines
+ACM0002-Consolidated
+baseline methodology for grid-connected
+electricity generation from
+renewable sources -Version 22.0
+
+Sectoral scopes 01 Energy industries (Renewable/Nonrenewable Sources)
+_______________
+
 The project activity consists of 63 wind energy converters of 800 kW E-53 with a total
 capacity of 50.4 MW. The generated electricity is supplied to the Rajasthan state
 electricity grid which is part of the Indian national electricity grid. The estimated net
 electricity generation is 94.482 GWh and the annual emission reductions are estimated
 to be 87,159 tCO2 per year. 
+
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 5186, as well as Gold Standard (GS) with reference number 5013. The crediting
+period of this project under CDM & GS was 01/10/2011-30/09/2021. PP seeks verification under
+UCR from 01/10/2021 onwards. Hence, there is no double counting for the said project. 
 
 ___________
 PRIOR HISTORY
