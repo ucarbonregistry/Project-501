@@ -150,3 +150,36 @@ Project Scale: Large Scale
 Project Type: Wind
 
 Description: Vaayu (India) Power Corporation Private Limited (VIPCPL) has developed 50.4 MW wind farm in the state of Rajasthan in India. The project activity involves supply, erection, commissioning and operation of 63 machines of 800 KW each. The machines are Wind World E-53 make. Annually, the project is expected to generate and supply 94.482 GWh of electricity to Rajasthan State Electricity grid which is part of the NEWNE (Northern, Eastern, Western and North-Eastern) grid in India. The clean and green electricity supplied by the project aid in sustainable growth.
+
+GOLD Std Issuance List
+__________
+VINTAGE / QTY/ PRODUCT/ ISSUANCE DATE
+____________
+2021/	72602/VER/Feb 20, 2023
+_______________
+2020	/58708/VER/Feb 20, 2023
+_________
+2020	/16702/	VER/ May 10, 2022	
+__________
+2019/	75337	/VER/May 10, 2022
+____________
+2020 /16702/CER/Mar 16, 2022
+____________
+2019	/75337	/CER/Mar 16, 2022
+__________
+2018/	67869	/VER/Oct 27, 2021	
+_________
+2017/	46756/VER/Oct 27, 2021
+_________
+2018/	67869/CER/Oct 11, 2021
+__________
+2017/	46756	/CER/Oct 11, 2021
+____________
+2015/	72709	/CER/Dec 29, 2017	
+__________
+2016	/10278	/CER/Dec 29, 2017
+_________
+2016/	45841/CER/Dec 29, 2017
+_________
+2017	/11408/CER/Dec 29, 2017
+____________
