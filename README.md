@@ -41,7 +41,36 @@ The project activity is registered under Clean Development Mechanism (CDM) proje
 registration number 5186, as well as Gold Standard (GS) with reference number 5013. The crediting
 period of this project under CDM & GS was 01/10/2011-30/09/2021. PP seeks verification under
 UCR from 01/10/2021 onwards. Hence, there is no double counting for the said project. 
+____________
+ISSUANCE DATE: 29/09/2025
 
+MP-01: 01/10/2021-31/12/2024
+
+QTY: 220152
+_________
+Serial Number: 0001-000001-012132-UCR-CoU-IN-501-01102021-31122021
+
+Vintage Year: 2021
+
+Quantity: 12132
+_____________
+Serial Number: 0001-012133-087042-UCR-CoU-IN-501-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 74910
+___________
+Serial Number: 0001-087043-167884-UCR-CoU-IN-501-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 80842
+____________
+Serial Number:0001-167885-220152-UCR-CoU-IN-501-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 52268
 ___________
 PRIOR HISTORY
 ____________
